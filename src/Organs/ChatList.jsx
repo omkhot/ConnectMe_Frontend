@@ -1,7 +1,7 @@
 import { useContext, useEffect, useState } from "react";
 import { createNewChat, fetchAllChats } from "../Axios/ChatMsg";
 import  UserData from "../Contexts/UserData";
-import image from "../Assets/image.png";
+import image from "../assets/image.png";
 import { IoCreateOutline, IoPersonAddOutline } from "react-icons/io5";
 import { fetchAllFollowers } from "../Axios/FollowFollowing";
 import ChatContext from "../Contexts/ChatContext";
