@@ -1,6 +1,6 @@
 import { BellRing, MessageCircleMore, SquarePen } from "lucide-react";
 import SearchBar from "../Molecules/SearchBar";
-import image from "../Assets/image.png";
+import image from "../assets/image.png";
 import { useContext } from "react";
 import PopUpContext from "../Contexts/PopUpContext";
 import { useNavigate } from "react-router-dom";
