@@ -2,7 +2,7 @@ import axiosInstance from "./AxiosSetup";
 
 export const GoogleSignIn = async() => {
     // Redirect the browser to start the OAuth flow
-    window.location.href = 'https://connectme-backend-bdgi.onrender.com/auth/google';      
+    window.location.href = 'https://connectme-backend-2-h4co.onrender.com/auth/google';      
 }
 
 export const manualLogin = async(data) => {
