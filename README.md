@@ -68,19 +68,19 @@ ConnectMe_Frontend/
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](../Frontend/ScreenShots/laptop_login.png)
+![Login Page](./ScreenShots/laptop_login.png)
 
 ### 🏠 Home Feed
-![Home Page](../Frontend/ScreenShots/laptop_home.png)
-![Home Page](../Frontend/ScreenShots/mobile_home.jpg)
+![Home Page](./ScreenShots/laptop_home.png)
+![Home Page](./ScreenShots/mobile_home.jpg)
 
 ### 👤 Profile
-![Profile](../Frontend/ScreenShots/mobile_profilepage.jpg)
-![Profile](../Frontend/ScreenShots/laptop_profile.png)
+![Profile](./ScreenShots/mobile_profilepage.jpg)
+![Profile](./ScreenShots/laptop_profile.png)
 
 ### Chats
-![Chats](../Frontend/ScreenShots/mobile_chats.jpg)
-![Chats](../Frontend/ScreenShots/mobile_msg.jpg)
+![Chats](./ScreenShots/mobile_chats.jpg)
+![Chats](./ScreenShots/mobile_msg.jpg)
 
 
 ## 🔧 Installation & Setup
