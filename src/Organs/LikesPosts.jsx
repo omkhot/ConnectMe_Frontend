@@ -46,6 +46,7 @@ function LikesPost(){
                                 src={post.postImages[0]}
                                 alt="post"
                                 className="w-full h-40 md:h-48 object-contain rounded-md group-hover:opacity-80 transition duration-300"
+                                loading="lazy"
                             />
                             {post.postImages.length > 1 && (
                                 <span className="absolute bottom-2 right-2 text-[10px] bg-white px-2 py-1 border border-gray-300 rounded-full text-gray-700 shadow-sm">

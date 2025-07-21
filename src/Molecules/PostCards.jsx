@@ -60,7 +60,7 @@ const FeedPost = ({ post, isFromProfile }) => {
             {post.postImages.map((img, idx) => (
               <SwiperSlide key={idx}>
                 <div className="w-full flex justify-center">
-                  <img src={img} alt={`post-${idx}`} className="w-auto max-w-full h-auto max-h-[90vh] object-contain" />
+                  <img src={img} alt={`post-${idx}`} className="w-auto max-w-full h-auto max-h-[90vh] object-contain" loading="lazy" />
                 </div>
               </SwiperSlide>
             ))}
